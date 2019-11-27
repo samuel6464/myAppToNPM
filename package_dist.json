@@ -1,0 +1,31 @@
+{
+    "name": "samTestNPM",
+    "version": "1.0.0",
+    "description": "An amazing module for Angular.",
+    "main": "bundles/samTestNPM.umd.js",
+    "module": "index.js",
+    "typings": "index.d.ts",
+    "keywords": [
+      "angular",
+      "angular2",
+      "angular 2",
+      "angular4",
+      "angular8",
+      "angular 8",
+      "sam npm test"
+    ],
+    "author": "SBLS2B",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/samuel6464/myAppToNPM.git"
+    },
+    "homepage": "https://github.com/samuel6464/myAppToNPM",
+    "bugs": {
+      "url": "https://github.com/samuel6464/myAppToNPM/issues"
+    },
+    "peerDependencies": {
+      "@angular/core": "~8.2.14",
+      "rxjs": "~6.4.0"
+    }
+}
